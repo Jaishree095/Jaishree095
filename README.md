@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jai-shree-6221b327a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="ja.ishree958"/></a>
 <a href="https://instagram.com/ja.ishree958" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="ja.ishree958"/></a>
-<a href="https://www.codechef.com/users/jaishree740" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaishree740" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jaishree740" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaishree740" height="30" width="80" /></a>
 </p>
 
 # 💻 Languages and Tools:
