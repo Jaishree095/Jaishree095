@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on a website that is based on <b>[Food Waste reduction]</b>
 
-- 🌱 I’m currently learning *Node.js,React.js*
+- 🌱 I’m currently learning <b>Node.js,React.js</b>
 
-- 💬 Ask me about *HTML,CSS*
+- 💬 Ask me about <b>HTML,CSS</b>
 
-- 📫 How to reach me *jais56242@gmail.com*
+- 📫 How to reach me <b>jais56242@gmail.com</b>
 
-- ⚡ Fun fact *I think i am funny person*
+- ⚡ Fun fact <b>I think i am funny person</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
