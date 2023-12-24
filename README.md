@@ -13,7 +13,7 @@
 
 - 📫 How to reach me <b>jais56242@gmail.com</b>
 
-- ⚡ Fun fact <b>I think i am funny person</b>
+- ⚡ Fun fact **I think i am funny person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
