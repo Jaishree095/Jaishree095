@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaishree095&label=Profile%20views&color=0e75b6&style=flat" alt="jaishree095" /> </p>
 
-- 🔭 I’m currently working on [Food waste reduction](signup.html and contact page.html)
+- 🔭 I’m currently working on a website that is based on <b>[Food Waste reduction]</b>
 
 - 🌱 I’m currently learning **Node.js,React.js**
 
