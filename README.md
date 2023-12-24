@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jai-shree-6221b327a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="ja.ishree958"/></a>
 <a href="https://instagram.com/ja.ishree958" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="ja.ishree958"/></a>
-<a href="https://www.codechef.com/users/jaishree740" target="blank"><img align="center" src="https://miro.medium.com/v2/resize:fit:1200/1*00C_a6JMPYeLdFyx0g28aQ.png" alt="jaishree740" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jaishree740" target="blank"><img align="center" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.pngaaa.com%2F788%2F4464788-middle.png&tbnid=9au2a0jjtBq-OM&vet=12ahUKEwizrdaw46iDAxX0bmwGHW_xAXwQxiAoAnoECAAQLQ..i&imgrefurl=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F4464788&docid=ZM0RaRsj79OAVM&w=900&h=312&itg=1&hl=en-IN&ved=2ahUKEwizrdaw46iDAxX0bmwGHW_xAXwQxiAoAnoECAAQLQ" alt="jaishree740" height="30" width="40" /></a>
 </p>
 
 # 💻 Languages and Tools:
