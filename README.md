@@ -27,8 +27,5 @@
  
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=jaishree095&show_icons=true&locale=en)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RudraPrasadPanda1234&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=jaishree095&show_icons=true&locale=en&layout=compact)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaishree095&show_icons=true&locale=en&layout=compact" alt="jaishree095" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaishree095&show_icons=true&locale=en" alt="jaishree095" /></p>
